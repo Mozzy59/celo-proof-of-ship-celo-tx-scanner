@@ -1,6 +1,6 @@
 # celo-proof-of-ship-celo-tx-scanner
 A Celo-based project that tracks transactions and contract interactions for any given address.  Built for Proof of Ship on Karma.
-# Celo Transaction Scanner 🚀
+# Celo Transaction Scanner 
 
 This project scans any address on the Celo blockchain and shows:
 - ✅ Total number of transactions  
